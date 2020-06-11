@@ -1,0 +1,8 @@
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\bin\Debug\MusWin.exe.config
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\bin\Debug\MusWin.exe
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\bin\Debug\MusWin.pdb
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\obj\Debug\MusWin.Form1.resources
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\obj\Debug\MusWin.Properties.Resources.resources
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\obj\Debug\MusWin.csproj.GenerateResource.cache
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\obj\Debug\MusWin.exe
+C:\Users\Amadeus\Documents\Visual Studio 2019\Projects\MusWin\MusWin\obj\Debug\MusWin.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusWin", "MusWin\MusWin.csproj", "{0EC36D5E-EFBE-4EB1-A5ED-D1DA48618552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC36D5E-EFBE-4EB1-A5ED-D1DA48618552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC36D5E-EFBE-4EB1-A5ED-D1DA48618552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC36D5E-EFBE-4EB1-A5ED-D1DA48618552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC36D5E-EFBE-4EB1-A5ED-D1DA48618552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75742EE2-F904-4561-841C-E4A45D38559C}
+	EndGlobalSection
+EndGlobal
